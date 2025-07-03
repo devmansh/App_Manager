@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msharma389\\source\\repos\\AppManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|c:\\users\\msharma389\\source\\repos\\appmanager\\appmanager\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\updateform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|c:\\users\\msharma389\\source\\repos\\appmanager\\appmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|c:\\users\\msharma389\\source\\repos\\appmanager\\appmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B831F9A2-9884-4C25-AFB1-76709719FCA5}|AppManager\\AppManager.csproj|solutionrelative:appmanager\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "AppManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\MainForm.cs [Design]",
+              "RelativeToolTip": "AppManager\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:42:27.906Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdateForm.cs",
+              "DocumentMoniker": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\UpdateForm.cs",
+              "RelativeDocumentMoniker": "AppManager\\UpdateForm.cs",
+              "ToolTip": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\UpdateForm.cs",
+              "RelativeToolTip": "AppManager\\UpdateForm.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:38:27.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\MainForm.cs",
+              "RelativeDocumentMoniker": "AppManager\\MainForm.cs",
+              "ToolTip": "C:\\Users\\msharma389\\source\\repos\\AppManager\\AppManager\\MainForm.cs",
+              "RelativeToolTip": "AppManager\\MainForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:10:24.098Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
